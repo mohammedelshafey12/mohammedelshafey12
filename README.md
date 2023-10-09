@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as *a  Flutter developer at SD Solution*
 
-- 🌱 I love  deep into *Machine Learning*
+- 🌱 I love *Machine Learning*
 
 - 👯 I’m looking to collaborate on *Flutter Projects*
 
